@@ -1,0 +1,4 @@
+baseURL = "https://liupa.pages.dev"
+languageCode = "en-us"
+title = "liupa"
+theme = "tale"
